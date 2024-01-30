@@ -1,0 +1,3 @@
+name: pl
+version: '${project.version}'
+main: dev.br.andreello.pl.Pl
