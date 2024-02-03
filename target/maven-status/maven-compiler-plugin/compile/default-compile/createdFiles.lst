@@ -1,0 +1,9 @@
+dev\br\andreello\pl\Pl.class
+dev\br\andreello\pl\kits\kitStructure$TInventoryStruct.class
+dev\br\andreello\pl\events\PlayerListener.class
+dev\br\andreello\pl\kits\Noob.class
+dev\br\andreello\pl\kits\Archer.class
+dev\br\andreello\pl\events\KitEvent.class
+dev\br\andreello\pl\kits\kitStructure$TKitStruct.class
+dev\br\andreello\pl\utils\Sender.class
+dev\br\andreello\pl\kits\kitStructure.class
